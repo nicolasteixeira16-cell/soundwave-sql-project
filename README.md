@@ -9,5 +9,10 @@
 - `insert_soundwave.sql` : insertion du jeu de données de test
 - `requetes_soundwave.sql` : requêtes SQL d'interrogation de la base
 
+## Captures d'écran
+Le dossier `captures/` contient :
+- les résultats des 4 requêtes SQL (`requetes_soundwave.sql`)
+- le diagramme UML et le MPD au format image
+
 ## SGBD utilisé
 PostgreSQL 16 (via Homebrew)

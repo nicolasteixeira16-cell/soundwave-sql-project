@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS public.artistes
     identifiant     BIGSERIAL PRIMARY KEY,        -- clé primaire auto-incrémentée
     nom             VARCHAR(100) NOT NULL,
     style_musical   VARCHAR(100) NOT NULL,
-    paie            VARCHAR(100) NOT NULL
+    pays            VARCHAR(100) NOT NULL
 );
 
 
